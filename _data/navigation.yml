@@ -1,17 +1,7 @@
 main:
-  - title: "EN"
+  - title: "Blog"
     url: /posts/
-
-  - title: "Posts"
-    url: /posts/
-  - title: "Projects"
+  - title: "Projects / Projekty"
     url: /projects/
-  - title: "About"
+  - title: "About / O mnie"
     url: /about/
-
-  - title: "PL"
-    url: /pl/artykuly/
-  - title: "Projekty"
-    url: /pl/projekty/
-  - title: "O mnie"
-    url: /pl/o-mnie/
