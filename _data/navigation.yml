@@ -5,3 +5,13 @@ main:
     url: /projects/
   - title: "About"
     url: /about/
+  - title: "🇵🇱 Polska"
+    children:
+      - title: "Strona główna"
+        url: /pl/
+      - title: "Artykuły"
+        url: /pl/artykuly/
+      - title: "O mnie"
+        url: /pl/o mnie/
+      - title: "Projekty"
+        url: /pl/projekty/
