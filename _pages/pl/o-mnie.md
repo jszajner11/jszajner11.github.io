@@ -1,5 +1,5 @@
 ---
 layout: single
 title: "O mnie"
-permalink: /pl/o mnie/
+permalink: /pl/o-mnie/
 ---
