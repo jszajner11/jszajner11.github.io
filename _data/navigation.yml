@@ -1,17 +1,17 @@
 main:
+  - title: "EN"
+    url: /posts/
+
   - title: "Posts"
     url: /posts/
   - title: "Projects"
     url: /projects/
   - title: "About"
     url: /about/
-  - title: "🇵🇱 Polska"
-    children:
-      - title: "Strona główna"
-        url: /pl/
-      - title: "Artykuły"
-        url: /pl/artykuly/
-      - title: "O mnie"
-        url: /pl/o mnie/
-      - title: "Projekty"
-        url: /pl/projekty/
+
+  - title: "PL"
+    url: /pl/artykuly/
+  - title: "Projekty"
+    url: /pl/projekty/
+  - title: "O mnie"
+    url: /pl/o-mnie/
