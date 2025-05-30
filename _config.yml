@@ -75,6 +75,11 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jakub-szajner-868518216/"
 
+header_pages:
+  - _pages/projects.md
+  - _pages/about.md
+  - _pages/posts.md  
+
 defaults:
   # _posts
   - scope:
