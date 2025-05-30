@@ -3,7 +3,6 @@ layout: default
 title: Markdown Reference Guide
 description: A comprehensive reference for all Markdown syntax and GitHub Flavored Markdown features
 date: 2025-05-30
-permalink: /markdown-reference/
 ---
 # Markdown Reference Guide 🚀
 
